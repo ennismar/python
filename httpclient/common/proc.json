@@ -1,0 +1,17 @@
+[
+    {
+        "proc_name": "device_notify-ctrl",
+        "ip": "192.168.1.4",
+        "port": 5005
+    },
+    {
+        "proc_name": "appnotify-mainThread",
+        "ip": "192.168.1.4",
+        "port": 5006
+    },
+    {
+        "proc_name": "sensormodule-worker",
+        "ip": "192.168.1.4",
+        "port": 6800
+    }
+]
