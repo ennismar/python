@@ -1,0 +1,12 @@
+root用户
+
+zypper install python-pip
+
+pip install tornado
+zypper install python-devel
+
+zeromq版本 = 4.0.7
+install libsodium
+install zeromq
+
+sudo pip install pyzmq

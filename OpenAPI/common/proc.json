@@ -1,0 +1,17 @@
+[
+    {
+        "proc_name": "reader_ctrl-worker",
+        "ip": "192.168.1.4",
+        "port": 6500
+    },
+    {
+        "proc_name": "cameractrl-worker",
+        "ip": "192.168.1.4",
+        "port": 6500
+    },
+    {
+        "proc_name": "mmsproc-requestparser",
+        "ip": "192.168.1.4",
+        "port": 6500
+    }
+]
